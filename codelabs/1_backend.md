@@ -11,7 +11,7 @@ $ git clone https://github.com/{YOUR_USERNAME}/commbank-server
 
 ## Create A MongoDB Cluster
 
-- [ ] Register at https://www.mongodb.com/cloud/atlas/register
+- [ 1] Register at https://www.mongodb.com/cloud/atlas/register
 - [ ] Click the “Create” button
 - [ ] Select “Shared” cluster
 - [ ] Select AWS as cloud provider
